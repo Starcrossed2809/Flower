@@ -114,19 +114,19 @@ body {
   transform: rotate(-15deg);
   animation: moving-flower-3 4s linear infinite;
 }
-.flower--3 .flower__line {
+.flower--4 .flower__line {
   animation-delay: 0.9s;
 }
-.flower--3 .flower__line__leaf--1 {
+.flower--4 .flower__line__leaf--1 {
   animation: blooming-leaf-right var(--fl-speed) 2.5s backwards;
 }
-.flower--3 .flower__line__leaf--2 {
+.flower--4 .flower__line__leaf--2 {
   animation: blooming-leaf-right var(--fl-speed) 2.3s backwards;
 }
-.flower--3 .flower__line__leaf--3 {
+.flower--4 .flower__line__leaf--3 {
   animation: blooming-leaf-left var(--fl-speed) 2.1s backwards;
 }
-.flower--3 .flower__line__leaf--4 {
+.flower--4 .flower__line__leaf--4 {
   animation: blooming-leaf-left var(--fl-speed) 1.9s backwards;
 }
 .flower__leafs {
